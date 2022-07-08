@@ -5,13 +5,13 @@ By chepkemoi maurene
 It is a description of my website.This website is about helping people to buy and sell farm produce in a very easy manner, customers can order farm produce from the farmers,harvesters and producers directly.We go beyond borders to get fresh produce from the farm.Our customer satifaction is our mission.
 # Table of Content
 - [Description](https://github.com/ChepkemoiMaurene/AgriPlus-Website/edit/main/README.md#description)
-- [Installation Requirement](https://github.com/ChepkemoiMaurene/.md#installation-process)
-- [Technology Used](https://github.com/ChepkemoiMaurene/Vallies-Estate-Landing-Page/edit/main/README.md#technology-used)
-- [Reference](https://github.com/ChepkemoiMaurene/Vallies-Estate-Landing-Page/edit/main/README.md#reference)
-- [Licence](https://github.com/ChepkemoiMaurene/Vallies-Estate-Landing-Page/edit/main/README.md#license)
-- [Authors Info](https://github.com/ChepkemoiMaurene/Vallies-Estate-Landing-Page/edit/main/README.md#authors-info)
+- [Installation Requirement](https://github.com/ChepkemoiMaurene/AgriPlus-Website/edit/main/README.md#installation requirement)
+- [Technology Used](https://github.com/ChepkemoiMaurene/AgriPlus-Website/edit/main/README.md#technology-used)
+- [Reference](https://github.com/ChepkemoiMaurene/AgriPlus-Website/edit/main/README.md#reference)
+- [Licence](https://github.com/ChepkemoiMaurene/AgriPlus-Website/edit/main/README.md#license)
+- [Authors Info](https://github.com/ChepkemoiMaurene/AgriPlus-Website/edit/main/README.md#authors-info)
 # Description
-This is a website that shows my portfolio of vallies landing page,It contains all my background information,some sample projects that I have worked on and  detailed information about them.
+This is a website that shows my portfolio of Agriplus-website,It contains all my background information,some sample farm produce that I have worked on and  detailed information about them.
 
 # Installation 
 go back to the top
@@ -43,6 +43,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 # Authors Info
 Slack Profile - chepkemoi maurene
 
-Linked -  chepkemoi maurene
+Linked in -  chepkemoi maurene
 
 Go Back to the top
