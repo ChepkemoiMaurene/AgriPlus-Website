@@ -5,7 +5,7 @@ By chepkemoi maurene
 It is a description of my website.This website is about helping people to buy and sell farm produce in a very easy manner, customers can order farm produce from the farmers,harvesters and producers directly.We go beyond borders to get fresh produce from the farm.Our customer satifaction is our mission.
 # Table of Content
 - [Description](https://github.com/ChepkemoiMaurene/AgriPlus-Website/edit/main/README.md#description)
-- [Installation Requirement](https://github.com/ChepkemoiMaurene/Vallies-Estate-Landing-Page/edit/main/README.md#installation-process)
+- [Installation Requirement](https://github.com/ChepkemoiMaurene/.md#installation-process)
 - [Technology Used](https://github.com/ChepkemoiMaurene/Vallies-Estate-Landing-Page/edit/main/README.md#technology-used)
 - [Reference](https://github.com/ChepkemoiMaurene/Vallies-Estate-Landing-Page/edit/main/README.md#reference)
 - [Licence](https://github.com/ChepkemoiMaurene/Vallies-Estate-Landing-Page/edit/main/README.md#license)
