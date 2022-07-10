@@ -115,20 +115,20 @@ active {
         position: absolute !important;
         top: 12rem;
     }
-    .description-container .position-conta {
+    .description-container .position-container {
         /* display: flex; */
         align-items: center;
         width: 90%;
         margin: auto;
     }
-    .description-container .position-conta > img {
+    .description-container .position-container > img {
         width: 53%;
         float: right;
         clear: left;
         box-sizing: border-box;
         padding-bottom: 89px;
     }
-    .position-conta > h2 {
+    .position-container > h2 {
         font-weight: 700;
         font-size: 40px;
         box-sizing: border-box;
@@ -137,7 +137,7 @@ active {
     
         /* margin-left: 10px; */
     }
-    .position-conta > p {
+    .position-container > p {
         font-weight: 500;
         font-size: 18px;
     }
