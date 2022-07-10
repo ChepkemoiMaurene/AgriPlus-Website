@@ -220,7 +220,7 @@ active {
 .title-hr-line {
     height: 4px;
     width: 17%;
-    /* margin-left: 0; */
+    margin-left: 0;
     margin-top: 20px;
     padding-top: 0;
     border: none;
@@ -318,7 +318,7 @@ active {
 }
 .cards-prime > h2 {
     font-size: 30px !important;
-    /* font-weight: 600; */
+    font-weight: 600;
 }
 .star-rating-icon {
     display: flex;
@@ -329,8 +329,8 @@ active {
     display: flex;
     align-items: center;
     box-sizing: border-box;
-    /* width: 80%; */
-    /* justify-content: space-between; */
+    width: 80%; 
+    justify-content: space-between; 
 }
 .profile-details .profile-img {
     height: 50px;
