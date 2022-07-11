@@ -406,6 +406,7 @@ active {
     display: flex;
     align-items: center;
 
+
     width: 30%;
     justify-content: space-between;
 }
@@ -422,10 +423,16 @@ active {
 }
 .iphon-android {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-between;
+
 }
 .iphon-android > img {
     height: 50px;
+}
+#android{
+    width: 145px;
 }
 .first-li-column > ul > li {
     list-style-type: none;
