@@ -14,7 +14,7 @@ It is a description of my website.This website is about helping people to buy an
 This is a website that shows my portfolio of Agriplus-website,It contains all my background information,some sample farm produce that I have worked on and  detailed information about them.
 
 # Installation 
-go back to the top
+
 # Requirements
 Either a computer,phone,tablet or an Ipad
 
