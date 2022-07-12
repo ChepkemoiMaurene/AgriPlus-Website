@@ -20,9 +20,6 @@ Either a computer,phone,tablet or an Ipad
 
 An access to the Internet
 
- # Installation Process
-Go Back to the top
-
 # Technology Used
 HTML - which was used to build the structure of the pages.
 
